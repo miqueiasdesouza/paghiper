@@ -1,0 +1,13 @@
+{
+  "name": "paghiper",
+  "version": "0.1.1",
+  "description": "Client to generate bank slip from PagHiper",
+  "main": "index.js",
+  "repository": "https://github.com/miqueiasdesouza/paghiper",
+  "author": "Miquéias de Souza <https://miqueiasdesouza.dev>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
