@@ -1,6 +1,7 @@
 {
   "name": "paghiper",
   "version": "0.1.1",
+  "engines" : { "node" : ">=10.0.0" },
   "description": "Client to generate bank slip from PagHiper",
   "main": "index.js",
   "repository": "https://github.com/miqueiasdesouza/paghiper",
