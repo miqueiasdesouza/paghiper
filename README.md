@@ -5,8 +5,14 @@ http://paghiper.com.br/
 ### Instalação
 
 Para fazer a instalação no seu projeto node utilize o npm para baixar e instalar o pacote no seu projeto
+##### com yarn
 ```bash
-yarn add paghiper ou npm i paghiper --save
+yarn add paghiper
+```
+
+##### com npm
+```bash
+npm i paghiper --save
 ```
 
 ### Observações
